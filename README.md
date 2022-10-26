@@ -1,2 +1,2 @@
-# Задача 2. Работяга
-Реализация задачи [отсюда](https://github.com/netology-code/jd-homeworks/tree/master/lambda/task2)
+# Задача 1. Работа с числами
+Реализация задачи [отсюда](https://github.com/netology-code/jd-homeworks/tree/master/streams/task1)
